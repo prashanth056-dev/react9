@@ -1,0 +1,27 @@
+.mainBg {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  background-image: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+  padding: 100px;
+  border-radius: 16px;
+}
+.head2 {
+  font-size: 36px;
+  color: #fff;
+}
+
+.btn {
+  padding: 10px 18px;
+  border: 0px;
+  border-radius: 9px;
+}
